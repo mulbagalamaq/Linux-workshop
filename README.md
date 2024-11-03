@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Linux-workshop
-Repository for Linux Workshop Conducted for GBBA
-=======
 # Linux+GitHub Workshop
 
 Hello Bioinformatician!
@@ -26,7 +22,7 @@ Thank you for participating in the Linux Workshop conducted by the Graduate Biot
 
 ## Authors
 
--   [Aymen Maqsood]()
+-   [Aymen Maqsood M]()
 -   [Shivani Makwana]()
 -   [Shogan Swamy](https://github.com/swamyshogan)
 
@@ -43,4 +39,3 @@ For more such events, [join](https://neu.campuslabs.com/engage/organization/na) 
 
 Make sure to follow us on social media for regular updates\
 [LinkedIn](https://www.linkedin.com/in/gbba-neu) \| [Instagram](https://www.instagram.com/gbba_neu)
->>>>>>> 1c25bd4 (update repo)
