@@ -23,7 +23,7 @@ Thank you for participating in the Linux Workshop conducted by the Graduate Biot
 ## Authors
 
 -   [Aymen Maqsood M](https://github.com/mulbagalamaq)
--   [Shivani Makwana]()
+-   [Shivani Makwana](https://github.com/vanii8)
 -   [Shogan Swamy](https://github.com/swamyshogan)
 
 ## Contributors
