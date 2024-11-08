@@ -22,13 +22,13 @@ Thank you for participating in the Linux Workshop conducted by the Graduate Biot
 
 ## Authors
 
--   [Aymen Maqsood M]()
+-   [Aymen Maqsood M](https://github.com/mulbagalamaq)
 -   [Shivani Makwana]()
 -   [Shogan Swamy](https://github.com/swamyshogan)
 
 ## Contributors
 
-Thank you to the Board Members of Graduate Biotech Bioinformatics Association for making this possible and special thanks to [Isha Parikh]() for constantly supporting us.
+Thank you to the Board Members of Graduate Biotech Bioinformatics Association for making this possible and special thanks to [Isha Parikh](https://github.com/isha2106) for constantly supporting us.
 
 ---
 
