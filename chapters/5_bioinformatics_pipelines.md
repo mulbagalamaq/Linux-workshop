@@ -91,4 +91,4 @@ chmod +x bio_pipeline.sh
 ./bio_pipeline.sh
 ```
 
-[Back to Main Page](./README.md)
+[Back to Main Page](../README.md)
