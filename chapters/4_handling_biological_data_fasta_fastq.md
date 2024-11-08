@@ -115,4 +115,4 @@ grep -A 1 "ATCG" file.fasta | awk 'BEGIN {RS=">"} NR > 1 {print ">" $0}'
 - **Grep** is fast for pattern matching using regular expressions.
 
 
-[Back to Main Page](./README.md)
+[Back to Main Page](../README.md)

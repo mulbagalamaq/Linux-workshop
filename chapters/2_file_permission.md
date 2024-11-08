@@ -78,4 +78,4 @@ chmod g-w document.txt
 -rwxr-xr-- 1 user group 4096 Oct 24 10:00 file.txt
 ```
 
-[Back to Main Page](./README.md)
+[Back to Main Page](../README.md)

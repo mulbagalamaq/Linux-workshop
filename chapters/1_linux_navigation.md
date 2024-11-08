@@ -212,4 +212,4 @@ cd /home/sample.s/GBBA
 
 **Note**: `nano` is simpler and more intuitive for beginners, while `vim` offers powerful editing features for advanced users.
 
-[Back to Main Page](./README.md)
+[Back to Main Page](../README.md)

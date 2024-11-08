@@ -115,4 +115,4 @@ conda config --set auto_activate_base false
 
 You can read more on Conda Env vs Virtual Env [here](https://notes.aquiles.me/difference_conda_environment_and_virtual_environment_in_pyhon/).
 
-[Back to Main Page](./README.md)
+[Back to Main Page](../README.md)
