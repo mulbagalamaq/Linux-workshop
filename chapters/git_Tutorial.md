@@ -172,4 +172,4 @@ git log --oneline --graph --decorate --all
 Effective use of Git allows smooth collaboration, efficient version control, and streamlined development processes. Ensure that you follow best practices for commit messages, branch management, and merging to avoid common pitfalls in team-based projects.
 
 
-[Back to Main Page](./README.md)
+[Back to Main Page](../README.md)
